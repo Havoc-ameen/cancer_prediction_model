@@ -64,15 +64,15 @@ Ensure you have Python 3.x installed with the required dependencies.
 pip install pandas numpy matplotlib scikit-learn
 ```
 ## 🔧 Running the Project:
-** 1. Clone the repository: **
+### 1. Clone the repository: 
 ``` bash
-git clone https://github.com/Sahil00017/Cancer-Regression-Model
+git clone https://github.com/Havoc-ameen/cancer_prediction_model
 ```
-** 2. Navigate to the project folder: **
+ ### 2. Navigate to the project folder: 
 ``` bash
 cd cancer-regression
 ```
-** 3. Open and run the Jupyter Notebook: **
+ ### 3. Open and run the Jupyter Notebook: 
 ``` bash
 jupyter notebook "Cancer_Regression.ipynb"
 ```
